@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá meu nome é Matheus :)
 
-<!--
-**motaxyz/motaxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌎 Sobre Mim
+Sou estudante de **Sistemas de Informação** e Técnico em **Desenvolvimento de Sistemas** e **Redes de Computadores**. Unindo minha base técnica de desenvolvimento com o aprendizado em testes e qualidade, estou direcionando minha carreira para **QA (Quality Assurance), Testes de Software e Analista de Sistemas**.
 
-Here are some ideas to get you started:
+* 🎓 **Formação atual:** Cursando Bacharelado em Sistemas de Informação.
+* 🔭 **Foco atual:** Aprimorando conhecimentos em **Testes Manuais** e **Testes com automação** (Exploratórios e Regressão).
+* 📚 **Estudando:** Cypress, Testes de API (Postman/Bruno), SQL e boas práticas de código.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,cypress,mysql,postman" />
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=motaxyz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motaxyz&layout=compact&theme=dracula"/>
+</div>
+
+---
+
+## 📫 Contatos
+
+<div align="left">
+  <a href="https://linkedin.com/in/matheusmotatonini/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a> 
+  <a href="mailto:matheus144mota@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <h3>Obrigado por acessar meu perfil, fique a vontade para acessar os repositórios e entrar em contato comigo!</h3>
+</div>
